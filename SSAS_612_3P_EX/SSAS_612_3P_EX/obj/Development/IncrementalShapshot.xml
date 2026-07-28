@@ -1,0 +1,82 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>SSAS_612_3P_EX</Database>
+    <Server>WIN-7GD12J442C1\ISSCDWH</Server>
+    <ConnectionString>Data Source=WIN-7GD12J442C1\ISSCDWH;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>+7QDMb5a/Lc0gfEKpFlqYQIBGd8=14/06/2024 22:28:5014/06/2024 22:11:43</TimeStamp>
+        <ID>
+          <String>CNN_STAGE_DB</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>NlQmlzebQn2PwIVKXVExYTrzdSg=14/06/2024 22:12:5314/06/2024 22:12:52</TimeStamp>
+        <ID>
+          <String>VW_STAGE_DB</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>ng0XzyXpS3750sXtACj8dT/54t4=14/06/2024 22:15:4714/06/2024 22:15:47</TimeStamp>
+        <ID>
+          <String>Dim Platform</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>ghrFtEMHfsAn6+Ov53m+s3YL7Ac=14/06/2024 22:16:0614/06/2024 22:16:06</TimeStamp>
+        <ID>
+          <String>Dim Genre</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>kF3Ap/vXbINr+eeRfcG/z6SgnXM=14/06/2024 22:16:2014/06/2024 22:16:20</TimeStamp>
+        <ID>
+          <String>Dim Region</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>qV93n415QJaS53zCy2x1HVfa+8Q=14/06/2024 22:33:0214/06/2024 22:33:00</TimeStamp>
+        <ID>
+          <String>Fact Video Game Sales</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>RoCCKRs4ElxzxFEQ6yIz7CCULiU=14/06/2024 22:33:0314/06/2024 22:32:59o9nzXAxJ7d/yjIQ5L14ljNko0cw=14/06/2024 22:33:0214/06/2024 22:33:00</TimeStamp>
+        <ID>
+          <String>CUBE_VW_STAGE_DB</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>CTpEy3iguYd+ePWhPa+7gIte7Ss=14/06/2024 22:07:4714/06/2024 22:07:46</TimeStamp>
+      <ID>
+        <String>SSAS_612_3P_EX</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2024-06-14T20:33:36.416667Z</LastDeployed>
+</DeploymentSnapshot>

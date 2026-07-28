@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "SSAS_612_3P_EX", "SSAS_612_3P_EX\SSAS_612_3P_EX.dwproj", "{0C5D79A1-9DAB-4B86-9E9F-1A238F0B4D05}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C5D79A1-9DAB-4B86-9E9F-1A238F0B4D05}.Development|Default.ActiveCfg = Development
+		{0C5D79A1-9DAB-4B86-9E9F-1A238F0B4D05}.Development|Default.Build.0 = Development
+		{0C5D79A1-9DAB-4B86-9E9F-1A238F0B4D05}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4E2FA8E8-D1B3-4DA4-A9DE-E50C2E24B343}
+	EndGlobalSection
+EndGlobal

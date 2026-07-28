@@ -1,0 +1,11 @@
+PlatformKey	Platform
+1	NES
+2	GB
+3	SNES
+4	N64
+5	GC
+6	GBA
+7	DS
+8	Wii
+9	3DS
+10	WiiU

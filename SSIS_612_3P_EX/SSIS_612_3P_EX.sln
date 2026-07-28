@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{C9674DCB-5085-4A16-B785-4C70DD1589BD}") = "SSIS_612_3P_EX", "SSIS_612_3P_EX\SSIS_612_3P_EX.dtproj", "{018408E9-D3BA-4CAC-A5BC-D12D1D0E1D87}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{018408E9-D3BA-4CAC-A5BC-D12D1D0E1D87}.Development|Default.ActiveCfg = Development
+		{018408E9-D3BA-4CAC-A5BC-D12D1D0E1D87}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAE47142-041E-4B62-9748-ED0BBBFCBE6E}
+	EndGlobalSection
+EndGlobal

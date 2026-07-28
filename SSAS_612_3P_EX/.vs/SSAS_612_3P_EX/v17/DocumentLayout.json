@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Administrador\\source\\repos\\SSAS_612_3P_EX\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D79A1-9DAB-4B86-9E9F-1A238F0B4D05}|SSAS_612_3P_EX\\SSAS_612_3P_EX.dwproj|C:\\Users\\Administrador\\source\\repos\\SSAS_612_3P_EX\\SSAS_612_3P_EX\\CUBE_VW_STAGE_DB.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{0C5D79A1-9DAB-4B86-9E9F-1A238F0B4D05}|SSAS_612_3P_EX\\SSAS_612_3P_EX.dwproj|solutionrelative:SSAS_612_3P_EX\\CUBE_VW_STAGE_DB.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D79A1-9DAB-4B86-9E9F-1A238F0B4D05}|SSAS_612_3P_EX\\SSAS_612_3P_EX.dwproj|C:\\Users\\Administrador\\source\\repos\\SSAS_612_3P_EX\\SSAS_612_3P_EX\\Dim Platform.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{0C5D79A1-9DAB-4B86-9E9F-1A238F0B4D05}|SSAS_612_3P_EX\\SSAS_612_3P_EX.dwproj|solutionrelative:SSAS_612_3P_EX\\Dim Platform.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D79A1-9DAB-4B86-9E9F-1A238F0B4D05}|SSAS_612_3P_EX\\SSAS_612_3P_EX.dwproj|C:\\Users\\Administrador\\source\\repos\\SSAS_612_3P_EX\\SSAS_612_3P_EX\\Dim Region.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{0C5D79A1-9DAB-4B86-9E9F-1A238F0B4D05}|SSAS_612_3P_EX\\SSAS_612_3P_EX.dwproj|solutionrelative:SSAS_612_3P_EX\\Dim Region.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D79A1-9DAB-4B86-9E9F-1A238F0B4D05}|SSAS_612_3P_EX\\SSAS_612_3P_EX.dwproj|C:\\Users\\Administrador\\source\\repos\\SSAS_612_3P_EX\\SSAS_612_3P_EX\\Dim Genre.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{0C5D79A1-9DAB-4B86-9E9F-1A238F0B4D05}|SSAS_612_3P_EX\\SSAS_612_3P_EX.dwproj|solutionrelative:SSAS_612_3P_EX\\Dim Genre.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C5D79A1-9DAB-4B86-9E9F-1A238F0B4D05}|SSAS_612_3P_EX\\SSAS_612_3P_EX.dwproj|C:\\Users\\Administrador\\source\\repos\\SSAS_612_3P_EX\\SSAS_612_3P_EX\\VW_STAGE_DB.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{0C5D79A1-9DAB-4B86-9E9F-1A238F0B4D05}|SSAS_612_3P_EX\\SSAS_612_3P_EX.dwproj|solutionrelative:SSAS_612_3P_EX\\VW_STAGE_DB.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CUBE_VW_STAGE_DB.cube [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SSAS_612_3P_EX\\SSAS_612_3P_EX\\CUBE_VW_STAGE_DB.cube",
+              "RelativeDocumentMoniker": "SSAS_612_3P_EX\\CUBE_VW_STAGE_DB.cube",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SSAS_612_3P_EX\\SSAS_612_3P_EX\\CUBE_VW_STAGE_DB.cube [Dise\u00F1o]",
+              "RelativeToolTip": "SSAS_612_3P_EX\\CUBE_VW_STAGE_DB.cube [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-14T20:33:03.744Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Platform.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SSAS_612_3P_EX\\SSAS_612_3P_EX\\Dim Platform.dim",
+              "RelativeDocumentMoniker": "SSAS_612_3P_EX\\Dim Platform.dim",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SSAS_612_3P_EX\\SSAS_612_3P_EX\\Dim Platform.dim [Dise\u00F1o]",
+              "RelativeToolTip": "SSAS_612_3P_EX\\Dim Platform.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-14T20:15:48.077Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dim Genre.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SSAS_612_3P_EX\\SSAS_612_3P_EX\\Dim Genre.dim",
+              "RelativeDocumentMoniker": "SSAS_612_3P_EX\\Dim Genre.dim",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SSAS_612_3P_EX\\SSAS_612_3P_EX\\Dim Genre.dim [Dise\u00F1o]",
+              "RelativeToolTip": "SSAS_612_3P_EX\\Dim Genre.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-14T20:16:06.911Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dim Region.dim [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SSAS_612_3P_EX\\SSAS_612_3P_EX\\Dim Region.dim",
+              "RelativeDocumentMoniker": "SSAS_612_3P_EX\\Dim Region.dim",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SSAS_612_3P_EX\\SSAS_612_3P_EX\\Dim Region.dim [Dise\u00F1o]",
+              "RelativeToolTip": "SSAS_612_3P_EX\\Dim Region.dim [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-14T20:16:21.108Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VW_STAGE_DB.dsv [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Administrador\\source\\repos\\SSAS_612_3P_EX\\SSAS_612_3P_EX\\VW_STAGE_DB.dsv",
+              "RelativeDocumentMoniker": "SSAS_612_3P_EX\\VW_STAGE_DB.dsv",
+              "ToolTip": "C:\\Users\\Administrador\\source\\repos\\SSAS_612_3P_EX\\SSAS_612_3P_EX\\VW_STAGE_DB.dsv [Dise\u00F1o]",
+              "RelativeToolTip": "SSAS_612_3P_EX\\VW_STAGE_DB.dsv [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-06-14T20:13:38.057Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
